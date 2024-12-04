@@ -25,4 +25,4 @@ Each folder in the repository corresponds to a specific algorithm and contains t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ml-algorithms-from-scratch.git
+  [https://github.com/AnnemSony/Machine-Learning-From-Scratch/tree/main]
