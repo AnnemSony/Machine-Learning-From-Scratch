@@ -21,8 +21,4 @@ Each folder in the repository corresponds to a specific algorithm and contains t
 - **Simplicity**: The implementations use only `numpy` and `math`, so you can focus on the core logic without any external dependencies.
 - **Easy to Follow**: Each algorithm is placed in its own folder with code and explanations to make it easy to follow.
 
-## How to Use
 
-1. Clone the repository:
-   ```bash
-  [https://github.com/AnnemSony/Machine-Learning-From-Scratch/tree/main]
