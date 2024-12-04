@@ -1,6 +1,6 @@
 # Machine Learning Algorithms from Scratch
 
-This repository contains implementations of famous machine learning algorithms built from scratch using only the `numpy` and `math` modules. The goal of this repository is to help users understand the fundamental principles of machine learning by providing simple, clear implementations of commonly used algorithms without relying on external libraries like `scikit-learn` or `tensorflow`.
+This repository contains implementations of famous machine learning algorithms built from scratch using only the `numpy` and `math` modules in python. The goal of this repository is to help users understand the fundamental principles of machine learning by providing simple, clear implementations of commonly used algorithms without relying on external libraries like `scikit-learn` or `tensorflow`.
 
 Each folder in the repository corresponds to a specific algorithm and contains the necessary code and explanations to help you understand the inner workings of that algorithm.
 
